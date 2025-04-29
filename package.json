@@ -15,6 +15,10 @@
   ],
   "license": "UNLICENSED",
   "dependencies": {
-    "chrome-remote-interface": "^0.33.3"
+    "chrome-remote-interface": "^0.33.3",
+    "node-fetch": "^2.7.0"
+  },
+  "devDependencies": {
+    "ajv": "^7.2.4"
   }
 }

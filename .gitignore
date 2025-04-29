@@ -42,3 +42,5 @@ lib
 
 # NX
 .nx
+
+service/auth_jomax.js

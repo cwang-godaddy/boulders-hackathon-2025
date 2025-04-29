@@ -3,9 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "main": "src/index.js",
-  "scripts": {
-
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com:cwang-godaddy/boulders-hackathon-2025.git"
@@ -17,5 +15,6 @@
   ],
   "license": "UNLICENSED",
   "dependencies": {
+    "chrome-remote-interface": "^0.33.3"
   }
 }

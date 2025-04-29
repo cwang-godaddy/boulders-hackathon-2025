@@ -1,0 +1,21 @@
+{
+  "name": "boulders-hackathon-2025",
+  "private": true,
+  "version": "0.0.0",
+  "main": "src/index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:cwang-godaddy/boulders-hackathon-2025.git"
+  },
+  "author": "GoDaddy Operating Company, LLC",
+  "maintainers": [
+    "Jenny Luong <jluong1@godaddy.com>",
+    "Tommy Wang <cwang@godaddy.com>"
+  ],
+  "license": "UNLICENSED",
+  "dependencies": {
+  }
+}

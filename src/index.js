@@ -29,9 +29,11 @@ async function example() {
 
   let client;
   if (fs.existsSync(filePath)) {
+    console.log(`found data for ${siteName}, using existing data...`);
     const arrayOfApiRequests = JSON.parse(fs.readFileSync(filePath, "utf8"));
 
     if (arrayOfApiRequests.length > 50) {
+      console.log(`file has more than 50 requests, splitting into chunks...`);
       splitArrayIntoChunks(arrayOfApiRequests);
       for (const array of matrix) {
         await callGoCaas(array);

@@ -14,9 +14,12 @@ async function callGoCaas(arrayOfApiData) {
         Want to make sure no security issues in webpage's network api calls or assets (ending in .js or .css).
         Here is the network data of the webpage: ${JSON.stringify(arrayOfApiData)}.
         This is a public website, in which users are not required to log in.
-        Based on modern webpage security standards (MDN for reference https://developer.mozilla.org/en-US/docs/Web/Security), please highlight any security concerns.
+        Based on modern webpage security standards (MDN for reference https://developer.mozilla.org/en-US/docs/Web/Security) and godaddy security standard:
+          1. should not have shopperId in api url queries (the pattern is shopperId=)
+          2. should not have prompts passed in api
+        please highlight any security concerns.
         List out the url request, the reason, the severity level (critical, moderate, or low), and the confidence level (in %).
-        List out at most 5 concerns for apis and 5 concerns for assets; and only show me the critical severity and 80%+ confidence level.
+        List out at most 10 concerns.
     `,
     provider: "openai_chat",
     providerOptions: {

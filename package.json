@@ -16,6 +16,7 @@
   "license": "UNLICENSED",
   "dependencies": {
     "chrome-remote-interface": "^0.33.3",
+    "fs": "^0.0.1-security",
     "node-fetch": "^2.7.0"
   },
   "devDependencies": {

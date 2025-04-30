@@ -12,6 +12,7 @@ const arrayOfApiRequests = [];
 
 async function example() {
   let client;
+  // TODO: skip all the try section if json file in data folder already exists
   try {
     // connect to endpoint
     client = await CDP();
@@ -54,8 +55,8 @@ async function example() {
 
       fs.writeFile('./data/serp.json', JSON.stringify(arrayOfApiResponses), 'utf8', () => {});
 
-      await callGoCaas(arrayOfApiResponses);
-      // await callGoCaas(arrayOfApiRequests);
+      // await callGoCaas(arrayOfApiResponses);
+      await callGoCaas(arrayOfApiRequests);
     }
   }
 }

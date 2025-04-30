@@ -12,11 +12,13 @@ async function callGoCaas(arrayOfApiData) {
   const body = JSON.stringify({
     prompt: `
         We want to make sure there are not security issues in webpage's network api calls or assets (ending in .js or .css).
-        Here is the network data of the webpage: ${JSON.stringify(arrayOfApiData)}.
+        Here is the network data of the webpage: ${JSON.stringify(
+          arrayOfApiData
+        )}.
         This is a public website, in which users are not required to log in.
-        Based on modern webpage security standards (MDN for reference https://developer.mozilla.org/en-US/docs/Web/Security), can you highlight any security concerns?
+        Based on modern webpage security standards (MDN for reference https://developer.mozilla.org/en-US/docs/Web/Security) can you highlight any security concerns?
         If there are concerns, list out the url request, the reason, and the severity level (critical, moderate, or low).
-        List our at most 5 concerns for apis and 5 concerns for assets.
+        List at most 5 concerns for apis and 5 concerns for assets.
     `,
     provider: "openai_chat",
     providerOptions: {

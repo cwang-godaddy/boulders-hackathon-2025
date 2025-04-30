@@ -1,1 +1,390 @@
-[{"url":"https://conv-pix.adstk.io/ad/ord=1745983205143?prd=web&cust=1422-000&event_type=visit&text=&charset=&version=0.2.0&sess_status=en&sess=1745982199956&ref=","headers":{"ETag":"\"66c8430c-23\"","Connection":"keep-alive","Accept-Ranges":"bytes","Access-Control-Allow-Origin":"*","Content-Length":"35","Date":"Wed, 30 Apr 2025 03:20:05 GMT","Content-Type":"image/gif","Vary":"Origin","Server":"nginx/1.20.0"}},{"url":"https://www.godaddy.com/","headers":{"cache-control":"max-age=0, no-cache, no-store","content-encoding":"gzip","content-type":"text/html; charset=utf-8","date":"Wed, 30 Apr 2025 03:20:05 GMT","expires":"Wed, 30 Apr 2025 03:20:05 GMT","pragma":"no-cache","server":"envoy","server-timing":"ak_p; desc=\"1745983205589_399098264_418748562_10130_18196_66_71_255\";dur=1","vary":"Accept-Encoding","x-akamai-transformed":"0 - 0 -","x-arc":"6a","x-envoy-upstream-service-time":"54","x-frame-options":"DENY","x-origin-tag":"frontdoor"}},{"url":"https://www.godaddy.com/NrHj5e/bLA/vGJ/S2i54Q/2bkiaw/ZGseMw5VKwU/XT91JllE/WAhZ","headers":{"x-arc":"6a","x-origin-tag":"frontdoor","cache-control":"max-age=86400","content-encoding":"gzip","etag":"\"160ed7a87f39f0bed16ea8498c603fb9fbdc01155aa45ef30f1961075fa4a1fa\"","server-timing":"ak_p; desc=\"1745980818328_399098264_409574682_37_13292_66_0_182\";dur=1","content-length":"757","date":"Wed, 30 Apr 2025 02:40:18 GMT","stored-attribute-sha-checksum":"bbf6d6790daeda99034c6eeb5a3398d442f824911bd1e444b69abd7dcb8d7f47","last-modified":"Tue, 25 Mar 2025 19:08:27 GMT","content-type":"text/css","vary":"Accept-Encoding","x-frame-options":"DENY"}},{"url":"https://img6.wsimg.com/wrhs-next/02c3ef817c103b37a3533e8a3fbcf848/icons.css","headers":{"content-encoding":"br","etag":"\"02c3ef817c103b37a3533e8a3fbcf848\"","x-amz-version-id":"0RxVc56dkjJJAtjE.o3GLvpl4vvXcZdG","server-timing":"cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1745983206068_399098244_680736128_35_2210_62_67_255\";dur=1","date":"Wed, 30 Apr 2025 03:20:06 GMT","content-type":"text/css","last-modified":"Fri, 24 Jan 2025 20:02:02 GMT","vary":"Accept-Encoding","x-amz-id-2":"IWAovKDsL688potg1VOtQMxn0+eWjIZH5cFh2Tr5q6cpWUnRfiM/oUDZ0YC+tl/cWUFm6VoHSnA=","cache-control":"max-age=31536000","timing-allow-origin":"*","x-amz-request-id":"3N6PQXAPD17S33V5","accept-ranges":"bytes","access-control-allow-origin":"*","content-length":"62656","x-amz-server-side-encryption":"AES256"}},{"url":"https://img1.wsimg.com/cdnassets/transform/535b3177-615d-4925-944f-2a7a52c40509/motion-marquee-sb-desktop-poster-test","headers":{"x-content-type-options":"nosniff","expires":"Thu, 30 Apr 2026 03:20:06 GMT","x-amz-cf-id":"0hkgg-VW7nMvd7LKBcCF9S759NDN2-AgpA1E-PN_arzygO7xpWWtXA==","date":"Wed, 30 Apr 2025 03:20:06 GMT","content-type":"image/webp","content-disposition":"inline; filename=\"motion-marquee-sb-desktop-poster-test.webp\"; filename*=UTF-8''motion-marquee-sb-desktop-poster-test.webp","strict-transport-security":"max-age=63072000; includeSubdomains","x-api-correlation-id":"aa3b8129-76c2-5971-ece0-1a78e216640a","cache-control":"public, max-age=31536000, s-maxage=15552000","timing-allow-origin":"*","cross-origin-resource-policy":"cross-origin","referrer-policy":"strict-origin-when-cross-origin","permissions-policy":"camera=(), geolocation=(), microphone=()","access-control-allow-origin":"*","content-length":"60554","x-amz-cf-pop":"PHX52-P2"}},{"url":"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7","headers":{"Content-Type":"image/gif"}},{"url":"https://img6.wsimg.com/ux-assets/@ux/fonts/4.6.0/GDSherpa-vf4.woff2","headers":{"x-amz-id-2":"JV1Sdz/W6LxQV6XVyDpzJFm8qJV+39ZVb0s5C7XL2dGcdo+102+VRbPhDNhqHAy1qUhGKXYnuLc=","cache-control":"public, max-age=2592000","timing-allow-origin":"*","etag":"\"ff3f79fc43d0bcfd04d8cac73f56d8c7\"","x-amz-version-id":"O.epgxf3_bnThGQlmtvP3dEklPiKjJa6","x-amz-request-id":"QASEXFVAMJXWZPR9","accept-ranges":"bytes","server-timing":"cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1745980818390_399098244_672812448_27_1813_62_156_255\";dur=1","access-control-allow-origin":"*","content-length":"103388","date":"Wed, 30 Apr 2025 02:40:18 GMT","last-modified":"Tue, 04 Mar 2025 15:15:11 GMT","content-type":"font/woff2","x-amz-server-side-encryption":"AES256"}},{"url":"https://img6.wsimg.com/ux-assets/@ux/fonts/4.6.0/GDSage-bold.woff2","headers":{"x-amz-id-2":"s7N1EtsdYQqvEYlgPvwat/5QwjgleeV6gQ9utBvQid2+qZJrAGRB97+flHiruEbFKt5ucXtCXdg=","cache-control":"public, max-age=2592000","timing-allow-origin":"*","etag":"\"162c9e176014c90e76618bd4b7a8a3f0\"","x-amz-version-id":"yB7G.6hhZG19RG1BqkJM1iNpXPbSH1.t","x-amz-request-id":"QASCAVKGC4QB1CME","accept-ranges":"bytes","server-timing":"cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1745980818546_399098244_672812450_29_1774_62_0_255\";dur=1","access-control-allow-origin":"*","content-length":"40132","date":"Wed, 30 Apr 2025 02:40:18 GMT","last-modified":"Tue, 04 Mar 2025 15:15:10 GMT","content-type":"font/woff2","x-amz-server-side-encryption":"AES256"}},{"url":"https://img6.wsimg.com/ux-assets/@ux/fonts/4.6.0/GDSage-regular.woff2","headers":{"x-amz-id-2":"/bTXDuvjl6Apu3zh+Uwl6SlX1dUzHtzo5k8uqB8y1db5Y7v6xR5Eg7CqPOq7NSe3uHbrXRmB7Ts=","cache-control":"public, max-age=2592000","timing-allow-origin":"*","etag":"\"65bd0f4edeaa0e243cdca23ec72a5ae6\"","x-amz-version-id":"jke2heK4rF8zLjyRn.Bmx1nf0rXb86lU","x-amz-request-id":"QAS83N9B4Q319A9D","accept-ranges":"bytes","server-timing":"cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1745980818547_399098244_672812449_74_1593_62_0_255\";dur=1","access-control-allow-origin":"*","content-length":"38559","date":"Wed, 30 Apr 2025 02:40:18 GMT","last-modified":"Tue, 04 Mar 2025 15:15:10 GMT","content-type":"font/woff2","x-amz-server-side-encryption":"AES256"}},{"url":"data:image/svg+xml,%3Csvg width='20' height='12' viewBox='0 0 20 12' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M14.0853 0L13 1.10097L17.0407 5.2H0V6.8H17.0407L13 10.899L14.0853 12L20 6L14.0853 0Z' fill='%23111111'/%3E%3C/svg%3E","headers":{"Content-Type":"image/svg+xml"}},{"url":"https://img1.wsimg.com/cdnassets/m/47629b21accd6a6c/original/GODADDY_AIRO_LOGO_WHITE.svg","headers":{"content-encoding":"gzip","x-content-type-options":"nosniff","expires":"Thu, 30 Apr 2026 03:20:06 GMT","x-amz-cf-id":"UoTfRQndARtLUoL6WYVKzvV-jaJWB1esA0MmMeZXGNT0wYGwUieZhQ==","date":"Wed, 30 Apr 2025 03:20:06 GMT","content-type":"image/svg+xml","content-disposition":"attachment;filename=\"GODADDY_AIRO_LOGO_WHITE.svg\"","vary":"Accept-Encoding","strict-transport-security":"max-age=63072000; includeSubdomains","x-api-correlation-id":"2aea24a9-9ded-1336-a114-9f4c781a0543","cache-control":"public, max-age=31536000","timing-allow-origin":"*","cross-origin-resource-policy":"cross-origin","referrer-policy":"strict-origin-when-cross-origin","permissions-policy":"camera=(), geolocation=(), microphone=()","accept-ranges":"bytes","access-control-allow-origin":"*","content-length":"4454","x-amz-cf-pop":"PHX52-P2"}},{"url":"https://img6.wsimg.com/wrhs-next/5a3c09ada3e8754d1f83b97656867399/heartbeat.js","headers":{"content-encoding":"br","etag":"\"5a3c09ada3e8754d1f83b97656867399\"","x-amz-version-id":"F5k6D.7X4MlgV1Dlb8zET7a5uAkFUkMO","server-timing":"cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1745980818328_399098244_672811614_163_1806_63_0_146\";dur=1","date":"Wed, 30 Apr 2025 02:40:18 GMT","content-type":"application/javascript","last-modified":"Wed, 17 Jan 2024 19:40:32 GMT","vary":"Accept-Encoding","x-amz-id-2":"USwwrm2tJaP5k8Xnx+9Sl4doePB/4EcU1eTfvbEqKRqmsopYmpVmTFARKXw5eBcWIqcaT6NfpUyPuCCWgtXnEg==","cache-control":"max-age=31536000","timing-allow-origin":"*","x-amz-request-id":"B7M1K3RC238RNET8","accept-ranges":"bytes","access-control-allow-origin":"*","content-length":"1071","x-amz-server-side-encryption":"AES256"}},{"url":"https://img6.wsimg.com/ux-assets/react/18/react.umd.js","headers":{"content-encoding":"br","etag":"\"a95a4859add990c236c157deb21dd9f9\"","x-amz-version-id":"wnflltjiuUx8diLcgSNNWbSdpZxZEN7D","server-timing":"cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1745980818328_399098244_672811606_283_2032_63_0_182\";dur=1","date":"Wed, 30 Apr 2025 02:40:18 GMT","content-type":"application/javascript","last-modified":"Mon, 17 Jun 2024 13:26:40 GMT","vary":"Accept-Encoding","x-amz-id-2":"V5Pyvr+3DSq0I+RZxVHuA3pbC61fwbz5KheFm6Yv0sVja2vA3SiYX5A2feE71sO9F+8Pzy86F7sM1C3UBTaoDA==","cache-control":"public, max-age=31536000","timing-allow-origin":"*","x-amz-request-id":"747FDGNAYG7PYZSV","accept-ranges":"bytes","access-control-allow-origin":"*","content-length":"2383","x-amz-server-side-encryption":"AES256"}},{"url":"https://img6.wsimg.com/ux-assets/react/18/react-dom.umd.js","headers":{"content-encoding":"br","etag":"\"790282f8b5614b66e913e2d51d5e3379\"","x-amz-version-id":"Cv3JZGC6_IllmebvCPNgZ4Nk6WoxItnN","server-timing":"cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1745980818330_399098244_672811607_488_1715_63_0_182\";dur=1","date":"Wed, 30 Apr 2025 02:40:18 GMT","content-type":"application/javascript","last-modified":"Tue, 02 Jul 2024 05:04:25 GMT","vary":"Accept-Encoding","x-amz-id-2":"fdgGlsAuFjZW1LwFXJ/KDDegNg9uC7z94y7doQUlwWZtxmaQtJImQh5VnljnwELbIUCzWyThn+g=","cache-control":"public, max-age=31536000","timing-allow-origin":"*","x-amz-request-id":"A21HDYJB5Y9RSDBJ","accept-ranges":"bytes","access-control-allow-origin":"*","content-length":"37637","x-amz-server-side-encryption":"AES256"}},{"url":"https://www.godaddy.com/NrHj5e/bLA/vGJ/S2i54Q/2bkiaw/ZGseMw5VKwU/EXpxejNK/BHkp","headers":{"x-arc":"6a","x-origin-tag":"frontdoor","cache-control":"max-age=86400","content-encoding":"gzip","etag":"\"2ace0a321fd5da954ce883e0f82c0fd746e9a5175b37a1a8bbae1728f9fb920d\"","server-timing":"ak_p; desc=\"1745980818328_399098264_409574683_37_12764_66_0_146\";dur=1","content-length":"28571","date":"Wed, 30 Apr 2025 02:40:18 GMT","stored-attribute-sha-checksum":"12b49854a968c4b047ba5f070e9b50ccbb6760d38fce7e73b764bc2c9886f226","last-modified":"Tue, 25 Mar 2025 19:08:14 GMT","content-type":"application/javascript","vary":"Accept-Encoding","x-frame-options":"DENY"}},{"url":"https://img6.wsimg.com/wrhs-next/368ab9cc26dbf22a7fa8c9c3c0808bb2/consent-main.js","headers":{"content-encoding":"br","etag":"\"368ab9cc26dbf22a7fa8c9c3c0808bb2\"","x-amz-version-id":"1Q1SBXwwlmfC4DgMJb6GOBxn4C1HGIeB","server-timing":"cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1745980818651_399098244_672812802_24_1621_63_0_146\";dur=1","date":"Wed, 30 Apr 2025 02:40:18 GMT","content-type":"application/javascript","last-modified":"Tue, 25 Mar 2025 03:12:13 GMT","vary":"Accept-Encoding","x-amz-id-2":"3OeHoZ6RqYJDI5Z+V/lImTGScC0p6GZQObnN/SoWjNWqQuJIL615yP66XDGfrUHnps+3YuFagwqaVXe9B6NGEQ==","cache-control":"max-age=31536000","timing-allow-origin":"*","x-amz-request-id":"SK0N94DS9DT1782Q","accept-ranges":"bytes","access-control-allow-origin":"*","content-length":"28004","x-amz-server-side-encryption":"AES256"}},{"url":"https://img6.wsimg.com/wrhs-next/7a036ff1bdfc6424f2f86aa65af7a135/consent-main.css","headers":{"content-encoding":"br","etag":"\"7a036ff1bdfc6424f2f86aa65af7a135\"","x-amz-version-id":"IoleV0Ns_dEZ5ir309fPcXFy3XOX37i1","server-timing":"cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1745980818754_399098244_672813255_27_2431_63_0_255\";dur=1","date":"Wed, 30 Apr 2025 02:40:18 GMT","content-type":"text/css","last-modified":"Sat, 16 Nov 2024 13:26:15 GMT","vary":"Accept-Encoding","x-amz-id-2":"76F3gr1TOSiLxKyPhrOx+JEIoBSFvEdhFSm+HAPG9wnbvO3zS57+NYz6ba9huyY3UDk1yzO5IlTKREc8FosF4Q==","cache-control":"max-age=31536000","timing-allow-origin":"*","x-amz-request-id":"GJHE9PY2G4YQ19D4","accept-ranges":"bytes","access-control-allow-origin":"*","content-length":"5723","x-amz-server-side-encryption":"AES256"}},{"url":"https://img6.wsimg.com/wrhs-next/9dfec859933072d1c2bcbb703be6e4ff/tcc.min.js","headers":{"content-encoding":"br","etag":"\"9dfec859933072d1c2bcbb703be6e4ff\"","x-amz-version-id":"RvygznWE.XkncXfJPSIJ1BMyYlXrLOkK","server-timing":"cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1745983206409_399098261_861492211_45_1634_61_63_146\";dur=1","date":"Wed, 30 Apr 2025 03:20:06 GMT","content-type":"application/javascript","last-modified":"Tue, 08 Apr 2025 15:22:10 GMT","vary":"Accept-Encoding","x-amz-id-2":"zT9vts+f4kxGajEkVwmvO5O6NJvYqRVrnKk26dQxgUYKA8QugRAHw/bajPeE0AW3qy1sib6N+U+lBInWXIdzgw==","cache-control":"max-age=31536000","timing-allow-origin":"*","x-amz-request-id":"GZPVVMGJSG8PRXDP","accept-ranges":"bytes","access-control-allow-origin":"*","content-length":"30344","x-amz-server-side-encryption":"AES256"}},{"url":"https://img6.wsimg.com/wrhs-next/0c88e97f83f13b701e3465ec49b671d6/TrackingData.js","headers":{"content-encoding":"br","etag":"\"0c88e97f83f13b701e3465ec49b671d6\"","x-amz-version-id":"jEdpoBmEO8Od0wafnDfB_nd7YzVYFNBh","server-timing":"cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1745983206472_399098261_861492215_36_1638_61_0_146\";dur=1","date":"Wed, 30 Apr 2025 03:20:06 GMT","content-type":"application/javascript","last-modified":"Mon, 30 Sep 2024 23:18:49 GMT","vary":"Accept-Encoding","x-amz-id-2":"fRKqswtVrEs72trTRIAhKSfi1Nws5VoEDytQM4tGXESCAVS4gF8Lhv8eqQ7slIa0yvVaBQ0QKn5L0y+5N7i7tg==","cache-control":"max-age=31536000","timing-allow-origin":"*","x-amz-request-id":"4M7R1GMZ93A0GH2M","accept-ranges":"bytes","access-control-allow-origin":"*","content-length":"3831","x-amz-server-side-encryption":"AES256"}},{"url":"https://img6.wsimg.com/fos/react/swp/siteglass/main_622/client.js","headers":{"access-control-expose-headers":"*","cache-control":"max-age=31536000, immutable","content-encoding":"br","etag":"\"65495e77e4733fd672d5f1d10f454804\"","timing-allow-origin":"*","accept-ranges":"bytes","server-timing":"cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1745983206478_399098261_861492212_591_1495_61_0_146\";dur=1","access-control-allow-origin":"*","content-length":"14455","x-amz-cf-id":"Vg-lOMK06q50aaQqjVdjdcztTRYQZ2XuQgdNwvq3ELzc0JF1qOlHwg==","date":"Wed, 30 Apr 2025 03:20:06 GMT","content-type":"text/javascript","last-modified":"Wed, 23 Apr 2025 20:30:20 GMT","x-amz-cf-pop":"DFW56-P6","x-amz-server-side-encryption":"AES256"}},{"url":"https://img6.wsimg.com/wrhs-next/10fb262c5dd75f2c454dd44c42beb424/storefront-header.js","headers":{"content-encoding":"br","etag":"\"10fb262c5dd75f2c454dd44c42beb424\"","x-amz-version-id":"2i2JKt9VNsDallUbr4YRC5rrNC2isb21","server-timing":"cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1745983206475_399098261_861492214_303_1268_61_0_146\";dur=1","date":"Wed, 30 Apr 2025 03:20:06 GMT","content-type":"application/javascript","last-modified":"Tue, 08 Apr 2025 08:05:05 GMT","vary":"Accept-Encoding","x-amz-id-2":"upssaOkrnUQbu2UP7peMpMP9JPicHxjaGUEFUW1zwi3cibjTp77WOafuyewfuw7TsVRNlueEapYyoZBJSPZhtA==","cache-control":"max-age=31536000","timing-allow-origin":"*","x-amz-request-id":"5YTS1R7SNVWTGDPF","accept-ranges":"bytes","access-control-allow-origin":"*","content-length":"171672","x-amz-server-side-encryption":"AES256"}}]
+[
+  {
+    "url": "https://conv-pix.adstk.io/ad/ord=1745983205143?prd=web&cust=1422-000&event_type=visit&text=&charset=&version=0.2.0&sess_status=en&sess=1745982199956&ref=",
+    "headers": {
+      "ETag": "\"66c8430c-23\"",
+      "Connection": "keep-alive",
+      "Accept-Ranges": "bytes",
+      "Access-Control-Allow-Origin": "*",
+      "Content-Length": "35",
+      "Date": "Wed, 30 Apr 2025 03:20:05 GMT",
+      "Content-Type": "image/gif",
+      "Vary": "Origin",
+      "Server": "nginx/1.20.0"
+    }
+  },
+  {
+    "url": "https://www.godaddy.com/",
+    "headers": {
+      "cache-control": "max-age=0, no-cache, no-store",
+      "content-encoding": "gzip",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Wed, 30 Apr 2025 03:20:05 GMT",
+      "expires": "Wed, 30 Apr 2025 03:20:05 GMT",
+      "pragma": "no-cache",
+      "server": "envoy",
+      "server-timing": "ak_p; desc=\"1745983205589_399098264_418748562_10130_18196_66_71_255\";dur=1",
+      "vary": "Accept-Encoding",
+      "x-akamai-transformed": "0 - 0 -",
+      "x-arc": "6a",
+      "x-envoy-upstream-service-time": "54",
+      "x-frame-options": "DENY",
+      "x-origin-tag": "frontdoor"
+    }
+  },
+  {
+    "url": "https://www.godaddy.com/NrHj5e/bLA/vGJ/S2i54Q/2bkiaw/ZGseMw5VKwU/XT91JllE/WAhZ",
+    "headers": {
+      "x-arc": "6a",
+      "x-origin-tag": "frontdoor",
+      "cache-control": "max-age=86400",
+      "content-encoding": "gzip",
+      "etag": "\"160ed7a87f39f0bed16ea8498c603fb9fbdc01155aa45ef30f1961075fa4a1fa\"",
+      "server-timing": "ak_p; desc=\"1745980818328_399098264_409574682_37_13292_66_0_182\";dur=1",
+      "content-length": "757",
+      "date": "Wed, 30 Apr 2025 02:40:18 GMT",
+      "stored-attribute-sha-checksum": "bbf6d6790daeda99034c6eeb5a3398d442f824911bd1e444b69abd7dcb8d7f47",
+      "last-modified": "Tue, 25 Mar 2025 19:08:27 GMT",
+      "content-type": "text/css",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "DENY"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/wrhs-next/02c3ef817c103b37a3533e8a3fbcf848/icons.css",
+    "headers": {
+      "content-encoding": "br",
+      "etag": "\"02c3ef817c103b37a3533e8a3fbcf848\"",
+      "x-amz-version-id": "0RxVc56dkjJJAtjE.o3GLvpl4vvXcZdG",
+      "server-timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1745983206068_399098244_680736128_35_2210_62_67_255\";dur=1",
+      "date": "Wed, 30 Apr 2025 03:20:06 GMT",
+      "content-type": "text/css",
+      "last-modified": "Fri, 24 Jan 2025 20:02:02 GMT",
+      "vary": "Accept-Encoding",
+      "x-amz-id-2": "IWAovKDsL688potg1VOtQMxn0+eWjIZH5cFh2Tr5q6cpWUnRfiM/oUDZ0YC+tl/cWUFm6VoHSnA=",
+      "cache-control": "max-age=31536000",
+      "timing-allow-origin": "*",
+      "x-amz-request-id": "3N6PQXAPD17S33V5",
+      "accept-ranges": "bytes",
+      "access-control-allow-origin": "*",
+      "content-length": "62656",
+      "x-amz-server-side-encryption": "AES256"
+    }
+  },
+  {
+    "url": "https://img1.wsimg.com/cdnassets/transform/535b3177-615d-4925-944f-2a7a52c40509/motion-marquee-sb-desktop-poster-test",
+    "headers": {
+      "x-content-type-options": "nosniff",
+      "expires": "Thu, 30 Apr 2026 03:20:06 GMT",
+      "x-amz-cf-id": "0hkgg-VW7nMvd7LKBcCF9S759NDN2-AgpA1E-PN_arzygO7xpWWtXA==",
+      "date": "Wed, 30 Apr 2025 03:20:06 GMT",
+      "content-type": "image/webp",
+      "content-disposition": "inline; filename=\"motion-marquee-sb-desktop-poster-test.webp\"; filename*=UTF-8''motion-marquee-sb-desktop-poster-test.webp",
+      "strict-transport-security": "max-age=63072000; includeSubdomains",
+      "x-api-correlation-id": "aa3b8129-76c2-5971-ece0-1a78e216640a",
+      "cache-control": "public, max-age=31536000, s-maxage=15552000",
+      "timing-allow-origin": "*",
+      "cross-origin-resource-policy": "cross-origin",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "permissions-policy": "camera=(), geolocation=(), microphone=()",
+      "access-control-allow-origin": "*",
+      "content-length": "60554",
+      "x-amz-cf-pop": "PHX52-P2"
+    }
+  },
+  {
+    "url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "headers": { "Content-Type": "image/gif" }
+  },
+  {
+    "url": "https://img6.wsimg.com/ux-assets/@ux/fonts/4.6.0/GDSherpa-vf4.woff2",
+    "headers": {
+      "x-amz-id-2": "JV1Sdz/W6LxQV6XVyDpzJFm8qJV+39ZVb0s5C7XL2dGcdo+102+VRbPhDNhqHAy1qUhGKXYnuLc=",
+      "cache-control": "public, max-age=2592000",
+      "timing-allow-origin": "*",
+      "etag": "\"ff3f79fc43d0bcfd04d8cac73f56d8c7\"",
+      "x-amz-version-id": "O.epgxf3_bnThGQlmtvP3dEklPiKjJa6",
+      "x-amz-request-id": "QASEXFVAMJXWZPR9",
+      "accept-ranges": "bytes",
+      "server-timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1745980818390_399098244_672812448_27_1813_62_156_255\";dur=1",
+      "access-control-allow-origin": "*",
+      "content-length": "103388",
+      "date": "Wed, 30 Apr 2025 02:40:18 GMT",
+      "last-modified": "Tue, 04 Mar 2025 15:15:11 GMT",
+      "content-type": "font/woff2",
+      "x-amz-server-side-encryption": "AES256"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/ux-assets/@ux/fonts/4.6.0/GDSage-bold.woff2",
+    "headers": {
+      "x-amz-id-2": "s7N1EtsdYQqvEYlgPvwat/5QwjgleeV6gQ9utBvQid2+qZJrAGRB97+flHiruEbFKt5ucXtCXdg=",
+      "cache-control": "public, max-age=2592000",
+      "timing-allow-origin": "*",
+      "etag": "\"162c9e176014c90e76618bd4b7a8a3f0\"",
+      "x-amz-version-id": "yB7G.6hhZG19RG1BqkJM1iNpXPbSH1.t",
+      "x-amz-request-id": "QASCAVKGC4QB1CME",
+      "accept-ranges": "bytes",
+      "server-timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1745980818546_399098244_672812450_29_1774_62_0_255\";dur=1",
+      "access-control-allow-origin": "*",
+      "content-length": "40132",
+      "date": "Wed, 30 Apr 2025 02:40:18 GMT",
+      "last-modified": "Tue, 04 Mar 2025 15:15:10 GMT",
+      "content-type": "font/woff2",
+      "x-amz-server-side-encryption": "AES256"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/ux-assets/@ux/fonts/4.6.0/GDSage-regular.woff2",
+    "headers": {
+      "x-amz-id-2": "/bTXDuvjl6Apu3zh+Uwl6SlX1dUzHtzo5k8uqB8y1db5Y7v6xR5Eg7CqPOq7NSe3uHbrXRmB7Ts=",
+      "cache-control": "public, max-age=2592000",
+      "timing-allow-origin": "*",
+      "etag": "\"65bd0f4edeaa0e243cdca23ec72a5ae6\"",
+      "x-amz-version-id": "jke2heK4rF8zLjyRn.Bmx1nf0rXb86lU",
+      "x-amz-request-id": "QAS83N9B4Q319A9D",
+      "accept-ranges": "bytes",
+      "server-timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1745980818547_399098244_672812449_74_1593_62_0_255\";dur=1",
+      "access-control-allow-origin": "*",
+      "content-length": "38559",
+      "date": "Wed, 30 Apr 2025 02:40:18 GMT",
+      "last-modified": "Tue, 04 Mar 2025 15:15:10 GMT",
+      "content-type": "font/woff2",
+      "x-amz-server-side-encryption": "AES256"
+    }
+  },
+  {
+    "url": "data:image/svg+xml,%3Csvg width='20' height='12' viewBox='0 0 20 12' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M14.0853 0L13 1.10097L17.0407 5.2H0V6.8H17.0407L13 10.899L14.0853 12L20 6L14.0853 0Z' fill='%23111111'/%3E%3C/svg%3E",
+    "headers": { "Content-Type": "image/svg+xml" }
+  },
+  {
+    "url": "https://img1.wsimg.com/cdnassets/m/47629b21accd6a6c/original/GODADDY_AIRO_LOGO_WHITE.svg",
+    "headers": {
+      "content-encoding": "gzip",
+      "x-content-type-options": "nosniff",
+      "expires": "Thu, 30 Apr 2026 03:20:06 GMT",
+      "x-amz-cf-id": "UoTfRQndARtLUoL6WYVKzvV-jaJWB1esA0MmMeZXGNT0wYGwUieZhQ==",
+      "date": "Wed, 30 Apr 2025 03:20:06 GMT",
+      "content-type": "image/svg+xml",
+      "content-disposition": "attachment;filename=\"GODADDY_AIRO_LOGO_WHITE.svg\"",
+      "vary": "Accept-Encoding",
+      "strict-transport-security": "max-age=63072000; includeSubdomains",
+      "x-api-correlation-id": "2aea24a9-9ded-1336-a114-9f4c781a0543",
+      "cache-control": "public, max-age=31536000",
+      "timing-allow-origin": "*",
+      "cross-origin-resource-policy": "cross-origin",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "permissions-policy": "camera=(), geolocation=(), microphone=()",
+      "accept-ranges": "bytes",
+      "access-control-allow-origin": "*",
+      "content-length": "4454",
+      "x-amz-cf-pop": "PHX52-P2"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/wrhs-next/5a3c09ada3e8754d1f83b97656867399/heartbeat.js",
+    "headers": {
+      "content-encoding": "br",
+      "etag": "\"5a3c09ada3e8754d1f83b97656867399\"",
+      "x-amz-version-id": "F5k6D.7X4MlgV1Dlb8zET7a5uAkFUkMO",
+      "server-timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1745980818328_399098244_672811614_163_1806_63_0_146\";dur=1",
+      "date": "Wed, 30 Apr 2025 02:40:18 GMT",
+      "content-type": "application/javascript",
+      "last-modified": "Wed, 17 Jan 2024 19:40:32 GMT",
+      "vary": "Accept-Encoding",
+      "x-amz-id-2": "USwwrm2tJaP5k8Xnx+9Sl4doePB/4EcU1eTfvbEqKRqmsopYmpVmTFARKXw5eBcWIqcaT6NfpUyPuCCWgtXnEg==",
+      "cache-control": "max-age=31536000",
+      "timing-allow-origin": "*",
+      "x-amz-request-id": "B7M1K3RC238RNET8",
+      "accept-ranges": "bytes",
+      "access-control-allow-origin": "*",
+      "content-length": "1071",
+      "x-amz-server-side-encryption": "AES256"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/ux-assets/react/18/react.umd.js",
+    "headers": {
+      "content-encoding": "br",
+      "etag": "\"a95a4859add990c236c157deb21dd9f9\"",
+      "x-amz-version-id": "wnflltjiuUx8diLcgSNNWbSdpZxZEN7D",
+      "server-timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1745980818328_399098244_672811606_283_2032_63_0_182\";dur=1",
+      "date": "Wed, 30 Apr 2025 02:40:18 GMT",
+      "content-type": "application/javascript",
+      "last-modified": "Mon, 17 Jun 2024 13:26:40 GMT",
+      "vary": "Accept-Encoding",
+      "x-amz-id-2": "V5Pyvr+3DSq0I+RZxVHuA3pbC61fwbz5KheFm6Yv0sVja2vA3SiYX5A2feE71sO9F+8Pzy86F7sM1C3UBTaoDA==",
+      "cache-control": "public, max-age=31536000",
+      "timing-allow-origin": "*",
+      "x-amz-request-id": "747FDGNAYG7PYZSV",
+      "accept-ranges": "bytes",
+      "access-control-allow-origin": "*",
+      "content-length": "2383",
+      "x-amz-server-side-encryption": "AES256"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/ux-assets/react/18/react-dom.umd.js",
+    "headers": {
+      "content-encoding": "br",
+      "etag": "\"790282f8b5614b66e913e2d51d5e3379\"",
+      "x-amz-version-id": "Cv3JZGC6_IllmebvCPNgZ4Nk6WoxItnN",
+      "server-timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1745980818330_399098244_672811607_488_1715_63_0_182\";dur=1",
+      "date": "Wed, 30 Apr 2025 02:40:18 GMT",
+      "content-type": "application/javascript",
+      "last-modified": "Tue, 02 Jul 2024 05:04:25 GMT",
+      "vary": "Accept-Encoding",
+      "x-amz-id-2": "fdgGlsAuFjZW1LwFXJ/KDDegNg9uC7z94y7doQUlwWZtxmaQtJImQh5VnljnwELbIUCzWyThn+g=",
+      "cache-control": "public, max-age=31536000",
+      "timing-allow-origin": "*",
+      "x-amz-request-id": "A21HDYJB5Y9RSDBJ",
+      "accept-ranges": "bytes",
+      "access-control-allow-origin": "*",
+      "content-length": "37637",
+      "x-amz-server-side-encryption": "AES256"
+    }
+  },
+  {
+    "url": "https://www.godaddy.com/NrHj5e/bLA/vGJ/S2i54Q/2bkiaw/ZGseMw5VKwU/EXpxejNK/BHkp",
+    "headers": {
+      "x-arc": "6a",
+      "x-origin-tag": "frontdoor",
+      "cache-control": "max-age=86400",
+      "content-encoding": "gzip",
+      "etag": "\"2ace0a321fd5da954ce883e0f82c0fd746e9a5175b37a1a8bbae1728f9fb920d\"",
+      "server-timing": "ak_p; desc=\"1745980818328_399098264_409574683_37_12764_66_0_146\";dur=1",
+      "content-length": "28571",
+      "date": "Wed, 30 Apr 2025 02:40:18 GMT",
+      "stored-attribute-sha-checksum": "12b49854a968c4b047ba5f070e9b50ccbb6760d38fce7e73b764bc2c9886f226",
+      "last-modified": "Tue, 25 Mar 2025 19:08:14 GMT",
+      "content-type": "application/javascript",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "DENY"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/wrhs-next/368ab9cc26dbf22a7fa8c9c3c0808bb2/consent-main.js",
+    "headers": {
+      "content-encoding": "br",
+      "etag": "\"368ab9cc26dbf22a7fa8c9c3c0808bb2\"",
+      "x-amz-version-id": "1Q1SBXwwlmfC4DgMJb6GOBxn4C1HGIeB",
+      "server-timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1745980818651_399098244_672812802_24_1621_63_0_146\";dur=1",
+      "date": "Wed, 30 Apr 2025 02:40:18 GMT",
+      "content-type": "application/javascript",
+      "last-modified": "Tue, 25 Mar 2025 03:12:13 GMT",
+      "vary": "Accept-Encoding",
+      "x-amz-id-2": "3OeHoZ6RqYJDI5Z+V/lImTGScC0p6GZQObnN/SoWjNWqQuJIL615yP66XDGfrUHnps+3YuFagwqaVXe9B6NGEQ==",
+      "cache-control": "max-age=31536000",
+      "timing-allow-origin": "*",
+      "x-amz-request-id": "SK0N94DS9DT1782Q",
+      "accept-ranges": "bytes",
+      "access-control-allow-origin": "*",
+      "content-length": "28004",
+      "x-amz-server-side-encryption": "AES256"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/wrhs-next/7a036ff1bdfc6424f2f86aa65af7a135/consent-main.css",
+    "headers": {
+      "content-encoding": "br",
+      "etag": "\"7a036ff1bdfc6424f2f86aa65af7a135\"",
+      "x-amz-version-id": "IoleV0Ns_dEZ5ir309fPcXFy3XOX37i1",
+      "server-timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1745980818754_399098244_672813255_27_2431_63_0_255\";dur=1",
+      "date": "Wed, 30 Apr 2025 02:40:18 GMT",
+      "content-type": "text/css",
+      "last-modified": "Sat, 16 Nov 2024 13:26:15 GMT",
+      "vary": "Accept-Encoding",
+      "x-amz-id-2": "76F3gr1TOSiLxKyPhrOx+JEIoBSFvEdhFSm+HAPG9wnbvO3zS57+NYz6ba9huyY3UDk1yzO5IlTKREc8FosF4Q==",
+      "cache-control": "max-age=31536000",
+      "timing-allow-origin": "*",
+      "x-amz-request-id": "GJHE9PY2G4YQ19D4",
+      "accept-ranges": "bytes",
+      "access-control-allow-origin": "*",
+      "content-length": "5723",
+      "x-amz-server-side-encryption": "AES256"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/wrhs-next/9dfec859933072d1c2bcbb703be6e4ff/tcc.min.js",
+    "headers": {
+      "content-encoding": "br",
+      "etag": "\"9dfec859933072d1c2bcbb703be6e4ff\"",
+      "x-amz-version-id": "RvygznWE.XkncXfJPSIJ1BMyYlXrLOkK",
+      "server-timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1745983206409_399098261_861492211_45_1634_61_63_146\";dur=1",
+      "date": "Wed, 30 Apr 2025 03:20:06 GMT",
+      "content-type": "application/javascript",
+      "last-modified": "Tue, 08 Apr 2025 15:22:10 GMT",
+      "vary": "Accept-Encoding",
+      "x-amz-id-2": "zT9vts+f4kxGajEkVwmvO5O6NJvYqRVrnKk26dQxgUYKA8QugRAHw/bajPeE0AW3qy1sib6N+U+lBInWXIdzgw==",
+      "cache-control": "max-age=31536000",
+      "timing-allow-origin": "*",
+      "x-amz-request-id": "GZPVVMGJSG8PRXDP",
+      "accept-ranges": "bytes",
+      "access-control-allow-origin": "*",
+      "content-length": "30344",
+      "x-amz-server-side-encryption": "AES256"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/wrhs-next/0c88e97f83f13b701e3465ec49b671d6/TrackingData.js",
+    "headers": {
+      "content-encoding": "br",
+      "etag": "\"0c88e97f83f13b701e3465ec49b671d6\"",
+      "x-amz-version-id": "jEdpoBmEO8Od0wafnDfB_nd7YzVYFNBh",
+      "server-timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1745983206472_399098261_861492215_36_1638_61_0_146\";dur=1",
+      "date": "Wed, 30 Apr 2025 03:20:06 GMT",
+      "content-type": "application/javascript",
+      "last-modified": "Mon, 30 Sep 2024 23:18:49 GMT",
+      "vary": "Accept-Encoding",
+      "x-amz-id-2": "fRKqswtVrEs72trTRIAhKSfi1Nws5VoEDytQM4tGXESCAVS4gF8Lhv8eqQ7slIa0yvVaBQ0QKn5L0y+5N7i7tg==",
+      "cache-control": "max-age=31536000",
+      "timing-allow-origin": "*",
+      "x-amz-request-id": "4M7R1GMZ93A0GH2M",
+      "accept-ranges": "bytes",
+      "access-control-allow-origin": "*",
+      "content-length": "3831",
+      "x-amz-server-side-encryption": "AES256"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/fos/react/swp/siteglass/main_622/client.js",
+    "headers": {
+      "access-control-expose-headers": "*",
+      "cache-control": "max-age=31536000, immutable",
+      "content-encoding": "br",
+      "etag": "\"65495e77e4733fd672d5f1d10f454804\"",
+      "timing-allow-origin": "*",
+      "accept-ranges": "bytes",
+      "server-timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1745983206478_399098261_861492212_591_1495_61_0_146\";dur=1",
+      "access-control-allow-origin": "*",
+      "content-length": "14455",
+      "x-amz-cf-id": "Vg-lOMK06q50aaQqjVdjdcztTRYQZ2XuQgdNwvq3ELzc0JF1qOlHwg==",
+      "date": "Wed, 30 Apr 2025 03:20:06 GMT",
+      "content-type": "text/javascript",
+      "last-modified": "Wed, 23 Apr 2025 20:30:20 GMT",
+      "x-amz-cf-pop": "DFW56-P6",
+      "x-amz-server-side-encryption": "AES256"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/wrhs-next/10fb262c5dd75f2c454dd44c42beb424/storefront-header.js",
+    "headers": {
+      "content-encoding": "br",
+      "etag": "\"10fb262c5dd75f2c454dd44c42beb424\"",
+      "x-amz-version-id": "2i2JKt9VNsDallUbr4YRC5rrNC2isb21",
+      "server-timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1745983206475_399098261_861492214_303_1268_61_0_146\";dur=1",
+      "date": "Wed, 30 Apr 2025 03:20:06 GMT",
+      "content-type": "application/javascript",
+      "last-modified": "Tue, 08 Apr 2025 08:05:05 GMT",
+      "vary": "Accept-Encoding",
+      "x-amz-id-2": "upssaOkrnUQbu2UP7peMpMP9JPicHxjaGUEFUW1zwi3cibjTp77WOafuyewfuw7TsVRNlueEapYyoZBJSPZhtA==",
+      "cache-control": "max-age=31536000",
+      "timing-allow-origin": "*",
+      "x-amz-request-id": "5YTS1R7SNVWTGDPF",
+      "accept-ranges": "bytes",
+      "access-control-allow-origin": "*",
+      "content-length": "171672",
+      "x-amz-server-side-encryption": "AES256"
+    }
+  }
+]

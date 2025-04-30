@@ -11,6 +11,11 @@ Run this command in another terminal:
 
 Run `npm ci` to generate node_modules
 
-Add `auth_jomax.js` file within `/service` and export `auth_jomax`
+Add `auth_jomax.js` file within `/service` and export `auth_jomax`.  
+Example:
+```
+const auth_jomax = 'auth_jomax={Replace with-jomax-auth-token-here}
+module.exports.auth_jomax = auth_jomax;
+```
 
 Run `node src/index.js {optional-string}`; pass in optional param to specify the site to test. ('serp' is default). Options: 'fos', 'serp', 'businessName'

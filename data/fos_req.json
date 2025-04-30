@@ -1,0 +1,532 @@
+[
+  {
+    "url": "https://godaddy.com/",
+    "headers": {
+      "Upgrade-Insecure-Requests": "1",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"macOS\""
+    }
+  },
+  {
+    "url": "https://csp.godaddy.com/eventbus/web?clientid=017e82d96de053ea85d643d65276f588",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://csp.godaddy.com/eventbus/web?clientid=b18ef4f046435b64a469b32c3c1c20a3",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://csp.godaddy.com/eventbus/web?clientid=b18ef4f046435b64a469b32c3c1c20a3",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://conv-pix.adstk.io/ad/ord=1746055797370?prd=web&cust=1422-000&event_type=visit&text=&charset=&version=0.2.0&sess_status=en&sess=1746056069608&ref=",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Cache-Control": "max-age=0",
+      "Referer": "",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://www.godaddy.com/",
+    "headers": {
+      "Upgrade-Insecure-Requests": "1",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"macOS\""
+    }
+  },
+  {
+    "url": "https://rs.fullstory.com/rec/bundle?OrgId=YKBRC&UserId=5495991897370624&SessionId=5839193546228633553&PageId=4322130460514154595&Seq=4&ClientTime=1746055797730&CompiledVersion=1523d8e0b33a1541e30bc246ba68490a5b10d388&PageStart=1746055759399&PrevBundleTime=1746055797446&SkipResponseBody=true",
+    "postData": "{\"Seq\":4,\"When\":38683,\"Evts\":[{\"Kind\":90,\"Args\":[[1,7528]],\"When\":38683},{\"Kind\":60,\"Args\":[[1,7528],[\".eQLrfD { display: none; filter: grayscale(0%); outline: none !important; border: none !important; background: none !important; }\",\"@-webkit-keyframes dc-messaging-spin { \\n  100% { transform: rotate(360deg); }\\n}\",\"@keyframes dc-messaging-spin { \\n  100% { transform: rotate(360deg); }\\n}\",\".gLGDFE { display: flex; -webkit-box-pack: center; justify-content: center; -webkit-box-align: center; align-items: center; border-radius: 30px; background: linear-gradient(166.66deg, rgb(31, 117, 206) 4.62%, rgb(23, 121, 207) 4.62%, rgb(116, 75, 196) 86.29%); cursor: pointer; white-space: nowrap; box-shadow: rgba(0, 0, 0, 0.25) 0px 2px 15px 0px; }\",\".gLGDFE div { display: flex; -webkit-box-pack: center; justify-content: center; -webkit-box-align: center; align-items: center; background: rgb(255, 255, 255); border-radius: 30px; margin: 3px; padding: 8px 30px; }\",\".gLGDFE div img { margin-right: 6px; width: 20px; height: 20px; }\",\".dwJirI { font-size: 16px; font-weight: bold; color: rgb(17, 17, 17) !important; }\"],0],\"When\":38683},{\"Kind\":90,\"Args\":[[1,7530]],\"When\":38683},{\"Kind\":60,\"Args\":[[1,7530],[\"#dc-dynamic-container-chiclet { display: block !important; }\"],0],\"When\":38683},{\"Kind\":90,\"Args\":[[1,7540]],\"When\":38683},{\"Kind\":60,\"Args\":[[1,7540],[\".lpc_transcript .lp_agent:has(div[data-gd-dc=\\\"welcome\\\"]) { display: none !important; }\"],0],\"When\":38683},{\"Kind\":90,\"Args\":[[1,7542]],\"When\":38683},{\"Kind\":60,\"Args\":[[1,7542],[\".lpc_transcript .chips-wrapper { display: none !important; }\"],0],\"When\":38683},{\"Kind\":63,\"Args\":[\"POST\",\"https://e602a0de7e604ec0a43ac13c9dbb35e8.apm.us-west-2.aws.found.io:9243/intake/v2/rum/events\",75,202,\"content-type: application/x-ndjson\\r\\ncontent-encoding\\r\\n\",\"content-length: 0\\r\\n\",1746055763269,491,0,null,null,1,0,1],\"When\":38683},{\"Kind\":63,\"Args\":[\"POST\",\"https://rs.fullstory.com/rec/bundle?OrgId=YKBRC&UserId=5495991897370624&SessionId=5839193546228633553&PageId=6039736482539415100&Seq=8&ClientTime=1746055763267&CompiledVersion=1523d8e0b33a1541e30bc246ba68490a5b10d388&PageStart=1746055013561&PrevBundleTime=1746055557478&IsNewSession=true&DeltaT=5128&ContentEncoding=gzip\",112,200,\"content-type: text/plain\\r\\n\",\"content-length: 29\\r\\ncontent-type: application/json; charset=utf-8\\r\\n\",1746055763267,3669,29,null,null,1,1,1],\"When\":38683},{\"Kind\":63,\"Args\":[\"GET\",\"https://digitalcare.godaddy.com/dc-apis/proxy/contentful?content_type=zuxChiclet&locale=en-US&fields.featureId=default&include=5\",116,200,\"\",\"cache-control: max-age=0, no-cache, no-store\\r\\ncontent-length: 577\\r\\ncontent-type: application/vnd.contentful.delivery.v1+json\\r\\nexpires: Wed, 30 Apr 2025 23:29:23 GMT\\r\\npragma: no-cache\\r\\n\",1746055763265,0,0,null,null,0,0,1],\"When\":38683},{\"Kind\":63,\"Args\":[\"POST\",\"https://e602a0de7e604ec0a43ac13c9dbb35e8.apm.us-west-2.aws.found.io:9243/intake/v2/rum/events\",72,202,\"content-type: application/x-ndjson\\r\\ncontent-encoding\\r\\n\",\"content-length: 0\\r\\n\",1746055764276,483,0,null,null,1,0,1],\"When\":38683},{\"Kind\":63,\"Args\":[\"POST\",\"https://rs.fullstory.com/rec/bundle?OrgId=YKBRC&UserId=5495991897370624&SessionId=5839193546228633553&PageId=4322130460514154595&Seq=2&ClientTime=1746055765269&CompiledVersion=1523d8e0b33a1541e30bc246ba68490a5b10d388&PageStart=1746055759399&PrevBundleTime=1746055762593&LastActivity=5808&ContentEncoding=gzip\",113,200,\"content-type: text/plain\\r\\n\",\"content-length: 29\\r\\ncontent-type: application/json; charset=utf-8\\r\\n\",1746055765269,9621,29,null,null,1,1,1],\"When\":38683},{\"Kind\":63,\"Args\":[\"POST\",\"https://e602a0de7e604ec0a43ac13c9dbb35e8.apm.us-west-2.aws.found.io:9243/intake/v2/rum/events\",79,202,\"content-type: application/x-ndjson\\r\\ncontent-encoding\\r\\n\",\"content-length: 0\\r\\n\",1746055766267,477,0,null,null,1,0,1],\"When\":38683},{\"Kind\":63,\"Args\":[\"GET\",\"https://digitalcare.godaddy.com/dc-apis/proxy/contentful?content_type=zuxChatWelcomeMessage&locale=en-US&fields.featureId=welcome/virtualassistanttitle&include=5\",138,200,\"\",\"cache-control: max-age=0, no-cache, no-store\\r\\ncontent-length: 712\\r\\ncontent-type: application/vnd.contentful.delivery.v1+json\\r\\nexpires: Wed, 30 Apr 2025 23:29:26 GMT\\r\\npragma: no-cache\\r\\n\",1746055766263,0,0,null,null,0,0,1],\"When\":38683},{\"Kind\":63,\"Args\":[\"POST\",\"https://e602a0de7e604ec0a43ac13c9dbb35e8.apm.us-west-2.aws.found.io:9243/intake/v2/rum/events\",75,202,\"content-type: application/x-ndjson\\r\\ncontent-encoding\\r\\n\",\"content-length: 0\\r\\n\",1746055767260,484,0,null,null,1,0,1],\"When\":38683},{\"Kind\":67,\"Args\":[],\"When\":38730},{\"Kind\":67,\"Args\":[],\"When\":38828},{\"Kind\":67,\"Args\":[],\"When\":38832},{\"Kind\":67,\"Args\":[],\"When\":38836},{\"Kind\":67,\"Args\":[],\"When\":38864},{\"Kind\":67,\"Args\":[],\"When\":38884},{\"Kind\":67,\"Args\":[],\"When\":38920},{\"Kind\":67,\"Args\":[],\"When\":39021},{\"Kind\":67,\"Args\":[],\"When\":39021},{\"Kind\":23,\"Args\":[7],\"When\":39135},{\"When\":39135,\"Kind\":99,\"Args\":[\"https://www.godaddy.com/domainsearch/find?domainToCheck=hellwoeiruweoriuwoeiru.com\",\"https://www.godaddy.com/domainsearch/find?domainToCheck=--blocked--\",1200,728,1512,982,\"2.0.0\",\"\",\"<!DOCTYPE html>\",1065,\"5495991897370624\",1746055759399,\"en-US\",\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36\",\"d74734c6a7aed0\",false,false,null,\"\",1744834761,\"1523d8e0b33a1541e30bc246ba68490a5b10d388\"]}]}",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "Content-Type": "text/plain;charset=UTF-8",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://b.clarity.ms/collect",
+    "postData": "{\"e\":[\"0.8.1\",3,2911,35460,\"nbg5di7nfj\",\"10wv6u8\",\"m7x1t6\",2,1,1,0,\"https://www.godaddy.com/domainsearch/find?domainToCheck=hellwoeiruweoriuwoeiru.com\"],\"a\":[[38366,26,\"pagehide\",0],[2910,4,0,1200,6608,1200,728,0,0,0,0,30,0,null,null,null,null,null,null,null,null,null,null,null,null,null],[38371,0,2,325,3,0,4,11,5,1,25,4],[38371,36,6,[3204,0,4022,0,4899,10,5899,1,6903,0,37919,0]]]}",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "Content-Type": "text/plain;charset=UTF-8",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img1.wsimg.com/cdnassets/transform/535b3177-615d-4925-944f-2a7a52c40509/motion-marquee-sb-desktop-poster-test",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img1.wsimg.com/cdnassets/m/47629b21accd6a6c/original/GODADDY_AIRO_LOGO_WHITE.svg",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/wrhs-next/9dfec859933072d1c2bcbb703be6e4ff/tcc.min.js",
+    "headers": {
+      "Origin": "https://www.godaddy.com",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/wrhs-next/5a3c09ada3e8754d1f83b97656867399/heartbeat.js",
+    "headers": {
+      "Origin": "https://www.godaddy.com",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/wrhs-next/02c3ef817c103b37a3533e8a3fbcf848/icons.css",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/ux-assets/react/18/react.umd.js",
+    "headers": {
+      "Origin": "https://www.godaddy.com",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/ux-assets/react/18/react-dom.umd.js",
+    "headers": {
+      "Origin": "https://www.godaddy.com",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/fos/react/swp/siteglass/main_624/client.js",
+    "headers": {
+      "Origin": "https://www.godaddy.com",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "Referer": ""
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/wrhs-next/0c88e97f83f13b701e3465ec49b671d6/TrackingData.js",
+    "headers": {
+      "Origin": "https://www.godaddy.com",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/wrhs-next/10fb262c5dd75f2c454dd44c42beb424/storefront-header.js",
+    "headers": {
+      "Origin": "https://www.godaddy.com",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/wrhs-next/368ab9cc26dbf22a7fa8c9c3c0808bb2/consent-main.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://www.godaddy.com/NrHj5e/bLA/vGJ/S2i54Q/2bkiaw/ZGseMw5VKwU/XT91JllE/WAhZ",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://www.godaddy.com/NrHj5e/bLA/vGJ/S2i54Q/2bkiaw/ZGseMw5VKwU/EXpxejNK/BHkp",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/wrhs-next/7a036ff1bdfc6424f2f86aa65af7a135/consent-main.css",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/ux-assets/@ux/fonts/4.6.0/GDSherpa-vf4.woff2",
+    "headers": {
+      "Origin": "https://www.godaddy.com",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/ux-assets/@ux/fonts/4.6.0/GDSage-bold.woff2",
+    "headers": {
+      "Origin": "https://www.godaddy.com",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/ux-assets/@ux/fonts/4.6.0/GDSage-regular.woff2",
+    "headers": {
+      "Origin": "https://www.godaddy.com",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "data:image/svg+xml,%3Csvg width='20' height='12' viewBox='0 0 20 12' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M14.0853 0L13 1.10097L17.0407 5.2H0V6.8H17.0407L13 10.899L14.0853 12L20 6L14.0853 0Z' fill='%23111111'/%3E%3C/svg%3E",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "Origin": "https://www.godaddy.com",
+      "Referer": ""
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/wrhs-next/789630b38f6ed283b32348ec0c41b21d/consent-main.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=UA-115508484-1&l=_analyticsDataLayer",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img1.wsimg.com/tagging/js/g.js?p=GTM-5WB8X7D&l=_wGtmDataLayer",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://g.sst.godaddy.com/gtag/js?id=G-QJXPZE4TX8&l=_sGtmDataLayer",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img1.wsimg.com/signals/js/plugins/scc-web-vitals/scc-web-vitals.min.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/fos/react/swp/siteglass/main_624/chunk/siteglass.84818b4855a3278ae420.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/fos/react/swp/siteglass/main_624/chunk/9897.8b174142111ff55cf353.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/fos/react/swp/siteglass/main_624/chunk/9033.7751b185852d3869c6ac.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/fos/react/swp/siteglass/main_624/chunk/TOS.574e75393b7a3890224d.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/fos/react/swp/siteglass/main_624/chunk/Overlay.47fdc24bfb31ad95cd92.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/fos/react/swp/siteglass/main_624/chunk/7315.29fe1d359bdb6871e88c.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/fos/react/swp/siteglass/main_624/chunk/6708.713cfaed958a164a37ad.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/fos/react/swp/siteglass/main_624/chunk/1431.2c8e621d2cb7554c4bfe.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/fos/react/swp/siteglass/main_624/chunk/5397.7d2ace695ec31534101b.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/fos/react/swp/siteglass/main_624/chunk/DisclaimerModal.843668efea1a7d8a6f95.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/fos/react/swp/siteglass/main_624/chunk/useDomainSearch.a240b463d341f88ad769.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/fos/react/swp/siteglass/main_624/chunk/1718.dc5152c4a1784c25f23c.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/fos/react/swp/siteglass/main_624/chunk/9453.33a1453c4383bfd83798.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/fos/react/swp/siteglass/main_624/chunk/DomainForm.923eb24c619b52ce63a4.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/fos/react/swp/siteglass/main_624/chunk/TLDSearchBar.ae84139ddba5601d8e70.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/fos/react/swp/siteglass/main_624/chunk/ItemSummary.d1c293ced078aa278c0e.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/fos/react/swp/siteglass/main_624/chunk/4442.f6030233d3a367115fd6.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/fos/react/swp/siteglass/main_624/chunk/3413.fdb77772dfa3ef47ace5.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/fos/react/swp/siteglass/main_624/chunk/2359.3e22b7c400d0dc15e6f1.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/fos/react/swp/siteglass/main_624/chunk/MotionCampaignMarquee.932d7e0bd3a92009bd13.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "Referer": "https://www.godaddy.com/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  }
+]

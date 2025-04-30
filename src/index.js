@@ -23,23 +23,47 @@ const splitArrayIntoChunks = (arr, chunkSize = 50) => {
   return matrix;
 };
 
+const reqFilePath = `./data/${siteName}_req.json`;
+const respFilePath = `./data/${siteName}_resp.json`;
+const consoleStatement = `data security report for ${siteName}: `;
+
+const writeToFile = (filePath, data) => {
+  fs.writeFile(filePath, JSON.stringify(data), "utf8", () => {});
+};
+
 async function example() {
-  const filePath = `./data/${siteName}.json`;
   const urlToTest = URLMappings[siteName];
 
   let client;
-  if (fs.existsSync(filePath)) {
+
+  if (fs.existsSync(reqFilePath) && fs.existsSync(respFilePath)) {
     console.log(`found data for ${siteName}, using existing data...`);
-    const arrayOfApiRequests = JSON.parse(fs.readFileSync(filePath, "utf8"));
+    const arrayOfApiRequests = JSON.parse(fs.readFileSync(reqFilePath, "utf8"));
+    const arrayOfApiResponses = JSON.parse(
+      fs.readFileSync(respFilePath, "utf8")
+    );
 
     if (arrayOfApiRequests.length > 50) {
       console.log(`file has more than 50 requests, splitting into chunks...`);
       splitArrayIntoChunks(arrayOfApiRequests);
+      console.log("Request ", consoleStatement);
       for (const array of matrix) {
         await callGoCaas(array);
       }
     } else {
+      console.log("Request ", consoleStatement);
       await callGoCaas(arrayOfApiRequests);
+    }
+    if (arrayOfApiResponses.length > 50) {
+      console.log(`file has more than 50 requests, splitting into chunks...`);
+      splitArrayIntoChunks(arrayOfApiResponses);
+      console.log("Response ", consoleStatement);
+      for (const array of matrix) {
+        await callGoCaas(array);
+      }
+    } else {
+      console.log("Response ", consoleStatement);
+      await callGoCaas(arrayOfApiResponses);
     }
   } else {
     try {
@@ -82,13 +106,13 @@ async function example() {
       if (client) {
         await client.close();
 
-        fs.writeFile(
-          filePath,
-          JSON.stringify(arrayOfApiResponses),
-          "utf8",
-          () => {}
-        );
+        writeToFile(respFilePath, arrayOfApiResponses);
+        writeToFile(reqFilePath, arrayOfApiRequests);
 
+        console.log("Response ", consoleStatement);
+        await callGoCaas(arrayOfApiResponses);
+
+        console.log("Request ", consoleStatement);
         await callGoCaas(arrayOfApiRequests);
       }
     }

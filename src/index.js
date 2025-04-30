@@ -53,7 +53,7 @@ async function example() {
     if (client) {
       await client.close();
 
-      fs.writeFile('./data/serp.json', JSON.stringify(arrayOfApiResponses), 'utf8', () => {});
+      fs.writeFile('./data/serp.json', JSON.stringify(arrayOfApiRequests), 'utf8', () => {});
 
       // await callGoCaas(arrayOfApiResponses);
       await callGoCaas(arrayOfApiRequests);

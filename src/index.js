@@ -12,7 +12,7 @@ const arrayOfApiResponses = [];
 const arrayOfApiRequests = [];
 
 const args = process.argv.slice(2);
-const siteName = args[0] || serp;
+const siteName = args[0] || 'serp';
 
 const responseMatrix = [];
 const RequestMatrix = [];

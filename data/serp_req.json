@@ -71,7 +71,7 @@
     }
   },
   {
-    "url": "https://www.godaddy.com/domainfind/v1/search/exact?search_guid=ccbcef78-fddb-42a1-8cfc-4122035a64f8&req_id=1746120681009&isc=&itc=dpp_absol1&partial_query=hellwoeiruweoriuwoeiru.com&dbs_package=offer-dbsOffer-default&key=dpp_search&q=hellwoeiruweoriuwoeiru.com",
+    "url": "https://www.godaddy.com/domainfind/v1/search/exact?search_guid=ccbcef78-fddb-42a1-8cfc-4122035a64f8&req_id=1746120681009&isc=&itc=dpp_absol1&partial_query=hellwoeiruweoriuwoeiru.com&dbs_package=offer-dbsOffer-default&key=dpp_search&q=hellwoeiruweoriuwoeiru.com&shopperId=1086622",
     "headers": {
       "traceparent": "0b04be43005d7b2a8c250f3b673cad92",
       "sec-ch-ua-platform": "\"macOS\"",
@@ -82,7 +82,7 @@
     }
   },
   {
-    "url": "https://www.godaddy.com/domainfind/v1/search/spins?search_guid=ccbcef78-fddb-42a1-8cfc-4122035a64f8&req_id=1746120681009&isc=&itc=dpp_absol1&partial_query=hellwoeiruweoriuwoeiru.com&dbs_package=offer-dbsOffer-default&pagesize=40&pagestart=0&key=dpp_search&q=hellwoeiruweoriuwoeiru.com",
+    "url": "https://www.godaddy.com/domainfind/v1/search/spins?search_guid=ccbcef78-fddb-42a1-8cfc-4122035a64f8&req_id=1746120681009&isc=&itc=dpp_absol1&partial_query=hellwoeiruweoriuwoeiru.com&dbs_package=offer-dbsOffer-default&pagesize=40&pagestart=0&key=dpp_search&q=hellwoeiruweoriuwoeiru.com&shopperId=1086622",
     "headers": {
       "traceparent": "0b04be43005d7b2a8c250f3b673cad92",
       "sec-ch-ua-platform": "\"macOS\"",
@@ -93,7 +93,7 @@
     }
   },
   {
-    "url": "https://www.godaddy.com/domainfind/v1/search/smartexact?search_guid=ccbcef78-fddb-42a1-8cfc-4122035a64f8&req_id=1746120681009&isc=&itc=dpp_absol1&partial_query=hellwoeiruweoriuwoeiru.com&dbs_package=offer-dbsOffer-default&key=dpp_search&q=hellwoeiruweoriuwoeiru.com",
+    "url": "https://www.godaddy.com/domainfind/v1/search/smartexact?search_guid=ccbcef78-fddb-42a1-8cfc-4122035a64f8&req_id=1746120681009&isc=&itc=dpp_absol1&partial_query=hellwoeiruweoriuwoeiru.com&dbs_package=offer-dbsOffer-default&key=dpp_search&q=hellwoeiruweoriuwoeiru.com&shopperId=1086622",
     "headers": {
       "traceparent": "0b04be43005d7b2a8c250f3b673cad92",
       "sec-ch-ua-platform": "\"macOS\"",

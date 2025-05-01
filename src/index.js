@@ -14,9 +14,10 @@ const arrayOfApiRequests = [];
 const args = process.argv.slice(2);
 const siteName = args[0] || serp;
 
-const matrix = [];
+const responseMatrix = [];
+const RequestMatrix = [];
 
-const splitArrayIntoChunks = (arr, chunkSize = 50) => {
+const splitArrayIntoChunks = (matrix, arr, chunkSize = 25) => {
   for (let i = 0; i < arr.length; i += chunkSize) {
     matrix.push(arr.slice(i, i + chunkSize));
   }
@@ -42,23 +43,22 @@ async function example() {
     const arrayOfApiResponses = JSON.parse(
       fs.readFileSync(respFilePath, "utf8")
     );
-
-    if (arrayOfApiRequests.length > 50) {
-      console.log(`file has more than 50 requests, splitting into chunks...`);
-      splitArrayIntoChunks(arrayOfApiRequests);
+    if (arrayOfApiRequests.length > 25) {
+      console.log(`file has more than 25 requests, splitting into chunks...`);
+      splitArrayIntoChunks(RequestMatrix, arrayOfApiRequests);
       console.log("Request ", consoleStatement);
-      for (const array of matrix) {
+      for (const array of RequestMatrix) {
         await callGoCaas(array);
       }
     } else {
       console.log("Request ", consoleStatement);
       await callGoCaas(arrayOfApiRequests);
     }
-    if (arrayOfApiResponses.length > 50) {
-      console.log(`file has more than 50 requests, splitting into chunks...`);
-      splitArrayIntoChunks(arrayOfApiResponses);
+    if (arrayOfApiResponses.length > 25) {
+      console.log(`file has more than 25 requests, splitting into chunks...`);
+      splitArrayIntoChunks(responseMatrix, arrayOfApiResponses);
       console.log("Response ", consoleStatement);
-      for (const array of matrix) {
+      for (const array of responseMatrix) {
         await callGoCaas(array);
       }
     } else {

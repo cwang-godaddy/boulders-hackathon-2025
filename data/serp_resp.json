@@ -1,13 +1,13 @@
 [
   {
-    "url": "https://conv-pix.adstk.io/ad/ord=1746055757527?prd=web&cust=1422-000&event_type=visit&text=&charset=&version=0.2.0&sess_status=en&sess=1746055027848&ref=",
+    "url": "https://conv-pix.adstk.io/ad/ord=1746120680430?prd=web&cust=1422-000&event_type=visit&text=&charset=&version=0.2.0&sess_status=en&sess=1746056754128&ref=",
     "headers": {
-      "ETag": "\"66c84211-23\"",
+      "ETag": "\"66c836aa-23\"",
       "Connection": "keep-alive",
       "Accept-Ranges": "bytes",
       "Access-Control-Allow-Origin": "*",
       "Content-Length": "35",
-      "Date": "Wed, 30 Apr 2025 23:29:17 GMT",
+      "Date": "Thu, 01 May 2025 17:31:20 GMT",
       "Content-Type": "image/gif",
       "Vary": "Origin",
       "Server": "nginx/1.20.0"
@@ -19,14 +19,14 @@
       "cache-control": "max-age=0, no-cache, no-store",
       "content-encoding": "gzip",
       "content-type": "text/html; charset=utf-8",
-      "date": "Wed, 30 Apr 2025 23:29:18 GMT",
-      "etag": "W/\"49c39-Bth8IDtq3+xwUllsA9NAw11OU+M\"",
+      "date": "Thu, 01 May 2025 17:31:21 GMT",
+      "etag": "W/\"49c3a-lbmF5AchQHvFtVWb+cIAzRuqE04\"",
       "expect-ct": "max-age=0",
-      "expires": "Wed, 30 Apr 2025 23:29:18 GMT",
+      "expires": "Thu, 01 May 2025 17:31:21 GMT",
       "pragma": "no-cache",
       "referrer-policy": "no-referrer",
       "server": "envoy",
-      "server-timing": "ak_p; desc=\"1746055757915_389967115_28428851_14545_25636_64_60_255\";dur=1",
+      "server-timing": "ak_p; desc=\"1746120680791_399098264_726000273_11768_18931_61_116_255\";dur=1",
       "strict-transport-security": "max-age=15552000; includeSubDomains",
       "vary": "Accept-Encoding",
       "x-akamai-transformed": "0 - 0 -",
@@ -34,31 +34,10 @@
       "x-content-type-options": "nosniff",
       "x-dns-prefetch-control": "off",
       "x-download-options": "noopen",
-      "x-envoy-upstream-service-time": "44",
+      "x-envoy-upstream-service-time": "40",
       "x-frame-options": "SAMEORIGIN",
       "x-permitted-cross-domain-policies": "none",
       "x-xss-protection": "0"
-    }
-  },
-  {
-    "url": "https://img6.wsimg.com/serp-assets/static/3997d31/client-search-page.min.js",
-    "headers": {
-      "content-encoding": "gzip",
-      "etag": "\"7e8399764adc09fe5fa900c4b87a15dc\"",
-      "x-amz-version-id": "TeUdoqxjuP6mDUil5rXdjumlwEcmdeSq",
-      "server-timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1746055011181_399098244_122126550_47_1299_59_73_219\";dur=1",
-      "date": "Wed, 30 Apr 2025 23:16:51 GMT",
-      "last-modified": "Wed, 30 Apr 2025 19:25:59 GMT",
-      "content-type": "text/javascript",
-      "vary": "Accept-Encoding",
-      "x-amz-id-2": "NKndv5ApNTpf4mN/3Q9vr1fb5rFQgl1ipfQ1jFvYOABo/fk3gM7VXxuoSrtjx/yIjE41zq9bEPA=",
-      "cache-control": "max-age=900",
-      "timing-allow-origin": "*",
-      "x-amz-request-id": "PK8QG9K23KRC63HS",
-      "accept-ranges": "bytes",
-      "access-control-allow-origin": "*",
-      "content-length": "369189",
-      "x-amz-server-side-encryption": "AES256"
     }
   },
   {
@@ -79,44 +58,6 @@
       "accept-ranges": "bytes",
       "access-control-allow-origin": "*",
       "content-length": "13192",
-      "x-amz-server-side-encryption": "AES256"
-    }
-  },
-  {
-    "url": "https://img6.wsimg.com/elastic-apm/5.6.3/elastic-apm-rum.umd.min.js",
-    "headers": {
-      "cache-control": "max-age=31536000",
-      "timing-allow-origin": "*",
-      "content-encoding": "br",
-      "etag": "\"499a90f20515ce3b24663e9cf790a374\"",
-      "x-amz-request-id": "tx000000000000007fe657f-00650edae4-2f6ab989d-default",
-      "accept-ranges": "bytes",
-      "server-timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1746048911523_399098261_77996620_22_1140_65_0_146\";dur=1",
-      "access-control-allow-origin": "*",
-      "content-length": "16983",
-      "x-rgw-object-type": "Normal",
-      "date": "Wed, 30 Apr 2025 21:35:11 GMT",
-      "content-type": "application/javascript",
-      "last-modified": "Sat, 23 Sep 2023 12:32:37 GMT",
-      "vary": "Accept-Encoding"
-    }
-  },
-  {
-    "url": "https://img6.wsimg.com/serpimg/img/solutionsimg/serp_animation_loader.gif",
-    "headers": {
-      "x-amz-id-2": "+6zdTCCAyXA1c5Qo6VwEwT3txEbAKJkNkCk9Mw5atVVuyr0vmHFwDGNnVUTN45lmIz7VinAgAVirlOLWQOCILA==",
-      "cache-control": "max-age=2592000",
-      "timing-allow-origin": "*",
-      "etag": "\"f9bba3cd3d2c12a251a9254be4c42bca\"",
-      "x-amz-version-id": "fvA6YwAjSZUpzsns9gkY9uzSZAKKRjAk",
-      "x-amz-request-id": "MBK41JRPE6Q4PQMZ",
-      "accept-ranges": "bytes",
-      "server-timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1746048911743_399098261_77997242_26_1151_62_0_146\";dur=1",
-      "access-control-allow-origin": "*",
-      "content-length": "146666",
-      "date": "Wed, 30 Apr 2025 21:35:11 GMT",
-      "last-modified": "Fri, 11 Apr 2025 17:50:57 GMT",
-      "content-type": "image/gif",
       "x-amz-server-side-encryption": "AES256"
     }
   },
@@ -178,45 +119,40 @@
     }
   },
   {
-    "url": "https://img6.wsimg.com/serp-assets/static/3997d31/client-search-page.min.css",
+    "url": "https://img6.wsimg.com/elastic-apm/5.6.3/elastic-apm-rum.umd.min.js",
     "headers": {
-      "content-encoding": "br",
-      "etag": "\"173fcd4de435897ef50dca56bd5ad2e1\"",
-      "x-amz-version-id": "tBijxh1Nm739ax.ZK8FvsTXwFt6bB5Oq",
-      "server-timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1746055011108_399098244_122126549_26_1270_59_0_255\";dur=1",
-      "date": "Wed, 30 Apr 2025 23:16:51 GMT",
-      "content-type": "text/css",
-      "last-modified": "Wed, 30 Apr 2025 21:59:25 GMT",
-      "vary": "Accept-Encoding",
-      "x-amz-id-2": "hAiCmA15WcijeViXPjEfmCr2xB8qCfYlfb/VApE23ODHfgENztdUjHFs9TgjbjQ432bA/BSTrkQ=",
       "cache-control": "max-age=31536000",
       "timing-allow-origin": "*",
-      "x-amz-request-id": "Z732YMHC7H86PXM1",
+      "content-encoding": "br",
+      "etag": "\"499a90f20515ce3b24663e9cf790a374\"",
+      "x-amz-request-id": "tx000000000000007fe657f-00650edae4-2f6ab989d-default",
       "accept-ranges": "bytes",
+      "server-timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1746048911523_399098261_77996620_22_1140_65_0_146\";dur=1",
       "access-control-allow-origin": "*",
-      "content-length": "43116",
-      "x-amz-server-side-encryption": "AES256"
+      "content-length": "16983",
+      "x-rgw-object-type": "Normal",
+      "date": "Wed, 30 Apr 2025 21:35:11 GMT",
+      "content-type": "application/javascript",
+      "last-modified": "Sat, 23 Sep 2023 12:32:37 GMT",
+      "vary": "Accept-Encoding"
     }
   },
   {
-    "url": "https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js",
+    "url": "https://img6.wsimg.com/serpimg/img/solutionsimg/serp_animation_loader.gif",
     "headers": {
-      "content-encoding": "gzip",
-      "etag": "\"7d4644d89e45fe92623bdd628e60e8dd\"",
-      "age": "27463",
-      "x-content-type-options": "nosniff",
-      "x-cache": "Hit from cloudfront",
-      "x-amz-cf-id": "sOUXy-9c69sVvpqdnf3R8jtXRlSw47WWNhAr96IblZifCMbnPCufkw==",
-      "date": "Wed, 30 Apr 2025 13:57:29 GMT",
-      "content-type": "application/x-javascript",
-      "last-modified": "Wed, 09 Oct 2024 12:04:38 GMT",
-      "cache-control": "max-age=86400",
-      "via": "1.1 df11d3a08007cdd54c51137ab60a7786.cloudfront.net (CloudFront)",
+      "x-amz-id-2": "+6zdTCCAyXA1c5Qo6VwEwT3txEbAKJkNkCk9Mw5atVVuyr0vmHFwDGNnVUTN45lmIz7VinAgAVirlOLWQOCILA==",
+      "cache-control": "max-age=2592000",
+      "timing-allow-origin": "*",
+      "etag": "\"f9bba3cd3d2c12a251a9254be4c42bca\"",
+      "x-amz-version-id": "fvA6YwAjSZUpzsns9gkY9uzSZAKKRjAk",
+      "x-amz-request-id": "MBK41JRPE6Q4PQMZ",
       "accept-ranges": "bytes",
-      "content-length": "7350",
-      "x-xss-protection": "1; mode=block",
-      "x-amz-cf-pop": "LAX50-P3",
-      "server": "AmazonS3",
+      "server-timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1746048911743_399098261_77997242_26_1151_62_0_146\";dur=1",
+      "access-control-allow-origin": "*",
+      "content-length": "146666",
+      "date": "Wed, 30 Apr 2025 21:35:11 GMT",
+      "last-modified": "Fri, 11 Apr 2025 17:50:57 GMT",
+      "content-type": "image/gif",
       "x-amz-server-side-encryption": "AES256"
     }
   },
@@ -318,23 +254,58 @@
     }
   },
   {
-    "url": "https://img6.wsimg.com/wrhs/f6f63fb8e4399393f04a1fd90b2c5df4/header-cart-loader.js",
+    "url": "https://www.godaddy.com/content/SERP/v1?format=json",
     "headers": {
-      "content-encoding": "br",
-      "etag": "\"f6f63fb8e4399393f04a1fd90b2c5df4\"",
-      "x-amz-version-id": "HCNW9JfCCZ_vNyUmOOEHQRHjaZ4.laPh",
-      "server-timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1746048911912_399098261_77997615_15_1232_63_0_146\";dur=1",
-      "date": "Wed, 30 Apr 2025 21:35:11 GMT",
-      "content-type": "application/javascript",
-      "last-modified": "Tue, 01 Oct 2024 00:37:52 GMT",
+      "x-arc": "6",
+      "cache-control": "max-age=0, no-cache, no-store",
+      "pragma": "no-cache",
+      "expires": "Thu, 01 May 2025 17:31:21 GMT",
+      "server-timing": "ak_p; desc=\"1746120681156_399098264_726000619_4687_17902_61_0_219\";dur=1",
+      "content-length": "719",
+      "date": "Thu, 01 May 2025 17:31:21 GMT",
+      "content-type": "application/json; charset=utf-8",
+      "server": "Kestrel",
+      "x-frame-options": "DENY"
+    }
+  },
+  {
+    "url": "https://www.godaddy.com/xi92Ai0pk/La/D6/809dqNqjqcvzRI/XS/Bzk_AQ/Lm/svYjpFXnZY",
+    "headers": {
+      "x-arc": "6a",
+      "x-origin-tag": "frontdoor",
+      "cache-control": "max-age=86400",
+      "content-encoding": "gzip",
+      "etag": "\"160ed7a87f39f0bed16ea8498c603fb9fbdc01155aa45ef30f1961075fa4a1fa\"",
+      "server-timing": "ak_p; desc=\"1746120681249_399098264_726000763_32_15701_64_0_182\";dur=1",
+      "content-length": "757",
+      "date": "Thu, 01 May 2025 17:31:21 GMT",
+      "stored-attribute-sha-checksum": "bbf6d6790daeda99034c6eeb5a3398d442f824911bd1e444b69abd7dcb8d7f47",
+      "last-modified": "Tue, 25 Mar 2025 19:08:27 GMT",
+      "content-type": "text/css",
       "vary": "Accept-Encoding",
-      "x-amz-id-2": "8XEZHbeaGm4KY/fb60225yZogs1eLdZv5qn0ATmz6nzjeYbMqEzJmEj9inMK6zW9gEoKWQamCVSsQ7QuLkzoUA==",
-      "cache-control": "max-age=31536000",
-      "timing-allow-origin": "*",
-      "x-amz-request-id": "SM6DSZM6DDMH3DAR",
+      "x-frame-options": "DENY"
+    }
+  },
+  {
+    "url": "https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js",
+    "headers": {
+      "content-encoding": "gzip",
+      "etag": "\"7d4644d89e45fe92623bdd628e60e8dd\"",
+      "age": "25585",
+      "x-content-type-options": "nosniff",
+      "x-cache": "Hit from cloudfront",
+      "x-amz-cf-id": "hrQBGPyWctalIVPVuSNYN9uAwm6vJKVFVQWnNQXvhTsGyM6_u6dt6Q==",
+      "date": "Thu, 01 May 2025 10:24:57 GMT",
+      "last-modified": "Wed, 09 Oct 2024 12:04:38 GMT",
+      "content-type": "application/x-javascript",
+      "strict-transport-security": "max-age=31536000",
+      "cache-control": "max-age=86400",
+      "via": "1.1 881879d4c0c79b410b6d2fdc3ff2a8c6.cloudfront.net (CloudFront)",
       "accept-ranges": "bytes",
-      "access-control-allow-origin": "*",
-      "content-length": "931",
+      "content-length": "7350",
+      "x-xss-protection": "1; mode=block",
+      "x-amz-cf-pop": "LAX50-P3",
+      "server": "AmazonS3",
       "x-amz-server-side-encryption": "AES256"
     }
   },
@@ -360,6 +331,27 @@
     }
   },
   {
+    "url": "https://img6.wsimg.com/wrhs/f6f63fb8e4399393f04a1fd90b2c5df4/header-cart-loader.js",
+    "headers": {
+      "content-encoding": "br",
+      "etag": "\"f6f63fb8e4399393f04a1fd90b2c5df4\"",
+      "x-amz-version-id": "HCNW9JfCCZ_vNyUmOOEHQRHjaZ4.laPh",
+      "server-timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1746048911912_399098261_77997615_15_1232_63_0_146\";dur=1",
+      "date": "Wed, 30 Apr 2025 21:35:11 GMT",
+      "content-type": "application/javascript",
+      "last-modified": "Tue, 01 Oct 2024 00:37:52 GMT",
+      "vary": "Accept-Encoding",
+      "x-amz-id-2": "8XEZHbeaGm4KY/fb60225yZogs1eLdZv5qn0ATmz6nzjeYbMqEzJmEj9inMK6zW9gEoKWQamCVSsQ7QuLkzoUA==",
+      "cache-control": "max-age=31536000",
+      "timing-allow-origin": "*",
+      "x-amz-request-id": "SM6DSZM6DDMH3DAR",
+      "accept-ranges": "bytes",
+      "access-control-allow-origin": "*",
+      "content-length": "931",
+      "x-amz-server-side-encryption": "AES256"
+    }
+  },
+  {
     "url": "https://img6.wsimg.com/wrhs-next/5a3c09ada3e8754d1f83b97656867399/heartbeat.js",
     "headers": {
       "content-encoding": "br",
@@ -381,18 +373,108 @@
     }
   },
   {
-    "url": "https://www.godaddy.com/content/SERP/v1?format=json",
+    "url": "https://www.godaddy.com/xi92Ai0pk/La/D6/809dqNqjqcvzRI/XS/Bzk_AQ/YS/YsNxVLCmgp",
     "headers": {
-      "x-arc": "6",
-      "cache-control": "max-age=0, no-cache, no-store",
-      "pragma": "no-cache",
-      "expires": "Wed, 30 Apr 2025 23:29:18 GMT",
-      "server-timing": "ak_p; desc=\"1746055758242_389967115_28429088_4889_22141_61_0_219\";dur=1",
-      "content-length": "719",
-      "date": "Wed, 30 Apr 2025 23:29:18 GMT",
-      "content-type": "application/json; charset=utf-8",
-      "server": "Kestrel",
+      "x-arc": "6a",
+      "x-origin-tag": "frontdoor",
+      "cache-control": "max-age=86400",
+      "content-encoding": "gzip",
+      "etag": "\"2ace0a321fd5da954ce883e0f82c0fd746e9a5175b37a1a8bbae1728f9fb920d\"",
+      "server-timing": "ak_p; desc=\"1746120681338_399098264_726000906_33_13955_63_0_146\";dur=1",
+      "content-length": "28571",
+      "date": "Thu, 01 May 2025 17:31:21 GMT",
+      "stored-attribute-sha-checksum": "12b49854a968c4b047ba5f070e9b50ccbb6760d38fce7e73b764bc2c9886f226",
+      "last-modified": "Tue, 25 Mar 2025 19:08:14 GMT",
+      "content-type": "application/javascript",
+      "vary": "Accept-Encoding",
       "x-frame-options": "DENY"
+    }
+  },
+  {
+    "url": "https://img6.wsimg.com/serp-assets/static/de86920/client-search-page.min.css",
+    "headers": {
+      "content-encoding": "gzip",
+      "etag": "\"766441c4c685e8ea3d63977f054a5e06\"",
+      "x-amz-version-id": "6lfwEbXuO34HDK27a3ZWV70FmIl..D_Y",
+      "server-timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1746120681266_399098261_285416112_26_1347_61_129_255\";dur=1",
+      "date": "Thu, 01 May 2025 17:31:21 GMT",
+      "last-modified": "Wed, 30 Apr 2025 21:31:21 GMT",
+      "content-type": "text/css",
+      "vary": "Accept-Encoding",
+      "x-amz-id-2": "ZKreXNDN5YAoUVVYnoQZNIld6le+UY1vK5W6Yeueco6Sc5C8EQlAR2equCVNSbmw51Hv9T6kS8A=",
+      "cache-control": "max-age=900",
+      "timing-allow-origin": "*",
+      "x-amz-request-id": "6EVJQEPR7E35CFWF",
+      "accept-ranges": "bytes",
+      "access-control-allow-origin": "*",
+      "content-length": "58464",
+      "x-amz-server-side-encryption": "AES256"
+    }
+  },
+  {
+    "url": "https://www.godaddy.com/domainfind/v1/search/smartexact?search_guid=ccbcef78-fddb-42a1-8cfc-4122035a64f8&req_id=1746120681009&isc=&itc=dpp_absol1&partial_query=hellwoeiruweoriuwoeiru.com&dbs_package=offer-dbsOffer-default&key=dpp_search&q=hellwoeiruweoriuwoeiru.com",
+    "headers": {
+      "x-arc": "20",
+      "content-encoding": "gzip",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "expires": "Thu, 01 May 2025 17:31:21 GMT",
+      "server-timing": "ak_p; desc=\"1746120681156_399098264_726000618_32475_17972_66_0_219\";dur=1",
+      "date": "Thu, 01 May 2025 17:31:21 GMT",
+      "content-type": "application/json; charset=utf-8",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "DENY",
+      "access-control-allow-headers": "Cache-Control, X-Referrer, X-Request-Id, traceparent",
+      "cache-control": "max-age=0, no-cache, no-store",
+      "x-envoy-upstream-service-time": "281",
+      "pragma": "no-cache",
+      "access-control-allow-credentials": "true",
+      "access-control-allow-origin": "",
+      "akamai-grn": "0.98c1c917.1746120681.2b45e3ea",
+      "server": "envoy"
+    }
+  },
+  {
+    "url": "https://uip.godaddy.com/v1/users/insights/graphql",
+    "headers": {
+      "access-control-allow-credentials": "true",
+      "access-control-allow-headers": "api-key,content-type",
+      "access-control-allow-methods": "GET,POST,OPTIONS",
+      "access-control-allow-origin": "https://www.godaddy.com",
+      "cache-control": "max-age=0, no-cache, no-store",
+      "content-length": "0",
+      "date": "Thu, 01 May 2025 17:31:21 GMT",
+      "expires": "Thu, 01 May 2025 17:31:21 GMT",
+      "pragma": "no-cache",
+      "strict-transport-security": "max-age=86400 ; includeSubDomains ; preload",
+      "vary": "origin,access-control-request-method,access-control-request-headers",
+      "x-envoy-upstream-service-time": "56"
+    }
+  },
+  {
+    "url": "https://salesproducts.api.godaddy.com/v1/pl/1/cart",
+    "headers": {
+      "Access-Control-Max-Age": "86400",
+      "Content-Encoding": "gzip",
+      "x-origin-route": "catch-all",
+      "Access-Control-Allow-Methods": "GET,POST,PUT,PATCH,DELETE",
+      "Expires": "Thu, 01 May 2025 17:31:21 GMT",
+      "x-origin-cluster": "main-120",
+      "Date": "Thu, 01 May 2025 17:31:21 GMT",
+      "Content-Type": "application/json; charset=utf-8",
+      "x-origin-destination": "p3plmsapi120-3",
+      "Vary": "Accept-Encoding",
+      "x-origin-dc": "PROD-P3",
+      "Access-Control-Allow-Headers": "x-requested-with, content-type, accept, origin, authorization, x-csrftoken, X-CSRF-Token,  X-XSRF-Token, X-Request-Id, X-GD-Crawler, X-GD-SerpTest, X-GD-TestName, X-GD-ClientName, traceparent",
+      "Cache-Control": "max-age=0, no-cache, no-store",
+      "Timing-Allow-Origin": "*",
+      "x-origin-app": "sapi",
+      "x-envoy-upstream-service-time": "50",
+      "Pragma": "no-cache",
+      "Connection": "keep-alive",
+      "Access-Control-Allow-Credentials": "true",
+      "Access-Control-Allow-Origin": "https://www.godaddy.com",
+      "Content-Length": "59",
+      "Server": "envoy"
     }
   },
   {
@@ -417,42 +499,6 @@
     }
   },
   {
-    "url": "https://www.godaddy.com/NrHj5e/bLA/vGJ/S2i54Q/2bkiaw/ZGseMw5VKwU/XT91JllE/WAhZ",
-    "headers": {
-      "x-arc": "6a",
-      "x-origin-tag": "frontdoor",
-      "cache-control": "max-age=86400",
-      "content-encoding": "gzip",
-      "etag": "\"160ed7a87f39f0bed16ea8498c603fb9fbdc01155aa45ef30f1961075fa4a1fa\"",
-      "server-timing": "ak_p; desc=\"1746034772753_399098264_544552057_2078_12907_62_0_182\";dur=1",
-      "content-length": "757",
-      "date": "Wed, 30 Apr 2025 17:39:32 GMT",
-      "stored-attribute-sha-checksum": "bbf6d6790daeda99034c6eeb5a3398d442f824911bd1e444b69abd7dcb8d7f47",
-      "last-modified": "Tue, 25 Mar 2025 19:08:27 GMT",
-      "content-type": "text/css",
-      "vary": "Accept-Encoding",
-      "x-frame-options": "DENY"
-    }
-  },
-  {
-    "url": "https://www.godaddy.com/NrHj5e/bLA/vGJ/S2i54Q/2bkiaw/ZGseMw5VKwU/EXpxejNK/BHkp",
-    "headers": {
-      "x-arc": "6a",
-      "x-origin-tag": "frontdoor",
-      "cache-control": "max-age=86400",
-      "content-encoding": "gzip",
-      "etag": "\"2ace0a321fd5da954ce883e0f82c0fd746e9a5175b37a1a8bbae1728f9fb920d\"",
-      "server-timing": "ak_p; desc=\"1746034772753_399098264_544552058_2081_12876_62_0_146\";dur=1",
-      "content-length": "28571",
-      "date": "Wed, 30 Apr 2025 17:39:32 GMT",
-      "stored-attribute-sha-checksum": "12b49854a968c4b047ba5f070e9b50ccbb6760d38fce7e73b764bc2c9886f226",
-      "last-modified": "Tue, 25 Mar 2025 19:08:14 GMT",
-      "content-type": "application/javascript",
-      "vary": "Accept-Encoding",
-      "x-frame-options": "DENY"
-    }
-  },
-  {
     "url": "https://img6.wsimg.com/wrhs-next/7a036ff1bdfc6424f2f86aa65af7a135/consent-main.css",
     "headers": {
       "content-encoding": "br",
@@ -474,45 +520,24 @@
     }
   },
   {
-    "url": "https://uip.godaddy.com/v1/users/insights/graphql",
+    "url": "https://img6.wsimg.com/serp-assets/static/de86920/client-search-page.min.js",
     "headers": {
-      "access-control-allow-credentials": "true",
-      "access-control-allow-headers": "api-key,content-type",
-      "access-control-allow-methods": "GET,POST,OPTIONS",
-      "access-control-allow-origin": "https://www.godaddy.com",
-      "cache-control": "max-age=0, no-cache, no-store",
-      "content-length": "0",
-      "date": "Wed, 30 Apr 2025 23:29:18 GMT",
-      "expires": "Wed, 30 Apr 2025 23:29:18 GMT",
-      "pragma": "no-cache",
-      "strict-transport-security": "max-age=86400 ; includeSubDomains ; preload",
-      "vary": "origin,access-control-request-method,access-control-request-headers",
-      "x-envoy-upstream-service-time": "56"
-    }
-  },
-  {
-    "url": "https://gui.godaddy.com/pcjson/currency/display?marketId=en-US&pl_id=1&callback=__jp0",
-    "headers": {
-      "access-control-max-age": "86400",
       "content-encoding": "gzip",
-      "x-origin-route": "catch-all",
-      "access-control-allow-methods": "GET,POST,PUT,PATCH,DELETE",
-      "x-origin-cluster": "main-52",
-      "date": "Wed, 30 Apr 2025 23:29:18 GMT",
-      "content-type": "text/javascript; charset=utf-8",
-      "x-origin-destination": "p3plmgui52-4",
+      "etag": "\"24a1cb59f37995c4c8eea9bc78b2f215\"",
+      "x-amz-version-id": "Uk6JCb9SWLiGYrhu2scyQTfxEWqASu5m",
+      "server-timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1746120681404_399098261_285416113_39_1339_61_0_219\";dur=1",
+      "date": "Thu, 01 May 2025 17:31:21 GMT",
+      "last-modified": "Wed, 30 Apr 2025 21:31:22 GMT",
+      "content-type": "text/javascript",
       "vary": "Accept-Encoding",
-      "x-origin-dc": "PROD-P3",
-      "access-control-allow-headers": "x-requested-with, content-type, accept, origin, authorization, x-csrftoken",
-      "cache-control": "no-cache,max-age=0",
+      "x-amz-id-2": "/kP81G0+pZLuYcCy0i4lZTPQi7HXEPsZ57+PiF4IovsGwdBzktNdaMPtOkFvEl1xK6n/d3eTmmk=",
+      "cache-control": "max-age=900",
       "timing-allow-origin": "*",
-      "pragma": "no-cache, max-age=0",
-      "x-origin-app": "gui",
-      "x-envoy-upstream-service-time": "42",
-      "access-control-allow-credentials": "true",
+      "x-amz-request-id": "71K2T31CNSBBQFSN",
+      "accept-ranges": "bytes",
       "access-control-allow-origin": "*",
-      "content-length": "597",
-      "server": "envoy"
+      "content-length": "369219",
+      "x-amz-server-side-encryption": "AES256"
     }
   },
   {
@@ -523,9 +548,9 @@
       "x-origin-route": "catch-all",
       "access-control-allow-methods": "GET,POST,PUT,PATCH,DELETE",
       "x-origin-cluster": "main-52",
-      "date": "Wed, 30 Apr 2025 23:29:18 GMT",
+      "date": "Thu, 01 May 2025 17:31:21 GMT",
       "content-type": "text/html; charset=utf-8",
-      "x-origin-destination": "p3plmgui52-1",
+      "x-origin-destination": "p3plmgui52-5",
       "vary": "Accept-Encoding",
       "x-origin-dc": "PROD-P3",
       "access-control-allow-headers": "x-requested-with, content-type, accept, origin, authorization, x-csrftoken",
@@ -537,6 +562,31 @@
       "access-control-allow-credentials": "true",
       "access-control-allow-origin": "https://www.godaddy.com",
       "content-length": "254",
+      "server": "envoy"
+    }
+  },
+  {
+    "url": "https://gui.godaddy.com/pcjson/currency/display?marketId=en-US&pl_id=1&callback=__jp0",
+    "headers": {
+      "access-control-max-age": "86400",
+      "content-encoding": "gzip",
+      "x-origin-route": "catch-all",
+      "access-control-allow-methods": "GET,POST,PUT,PATCH,DELETE",
+      "x-origin-cluster": "main-52",
+      "date": "Thu, 01 May 2025 17:31:21 GMT",
+      "content-type": "text/javascript; charset=utf-8",
+      "x-origin-destination": "p3plmgui52-2",
+      "vary": "Accept-Encoding",
+      "x-origin-dc": "PROD-P3",
+      "access-control-allow-headers": "x-requested-with, content-type, accept, origin, authorization, x-csrftoken",
+      "cache-control": "no-cache,max-age=0",
+      "timing-allow-origin": "*",
+      "pragma": "no-cache, max-age=0",
+      "x-origin-app": "gui",
+      "x-envoy-upstream-service-time": "44",
+      "access-control-allow-credentials": "true",
+      "access-control-allow-origin": "*",
+      "content-length": "597",
       "server": "envoy"
     }
   }
